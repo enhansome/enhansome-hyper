@@ -4,7 +4,7 @@
 
 > A curated list of sweet Hyper [packages](#packages), [themes](#themes), and [resources](#resources).
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,058 | 🐛 100 | 📅 2026-06-30 list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,507 | 🐛 26 | 📅 2026-05-03 and [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,734 | 🐛 1 | 📅 2026-04-20, which both have CLI stuff you can use with Hyper!*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,095 | 🐛 100 | 📅 2026-06-30 list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,508 | 🐛 26 | 📅 2026-05-03 and [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,734 | 🐛 1 | 📅 2026-04-20, which both have CLI stuff you can use with Hyper!*
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
