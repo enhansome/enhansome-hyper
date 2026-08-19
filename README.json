@@ -1,24 +1,9 @@
 {
-  "items": [
-    {
-      "description": "⬆ Back to top",
-      "items": [],
-      "title": "Productivity"
-    },
-    {
-      "description": "⬆ Back to top",
-      "items": [],
-      "title": "Customization"
-    },
-    {
-      "description": "⬆ Back to top",
-      "items": [],
-      "title": "Development"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T05:05:03.132Z",
+    "last_updated": "2026-08-19T12:33:25.285Z",
     "original_repository": "bnb/awesome-hyper",
+    "original_repository_id": 63499650,
     "original_repository_sha": "6b9f209da885e047f4dafa35e21f51655e388d91",
     "enhanced_repository": "enhansome/enhansome-hyper",
     "enhanced_repository_description": null,
