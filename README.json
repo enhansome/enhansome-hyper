@@ -17,7 +17,7 @@
                 "last_commit": "2022-09-20T08:52:39Z",
                 "owner": "bnb",
                 "repo": "awesome-hyper",
-                "stars": 11000
+                "stars": 11001
               }
             },
             {
@@ -55,10 +55,10 @@
             "archived": false,
             "id": 1554093,
             "language": "Shell",
-            "last_commit": "2026-08-23T12:35:19Z",
+            "last_commit": "2026-08-24T22:04:06Z",
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27156
+            "stars": 27155
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2026-06-08T16:29:56Z",
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15698
+            "stars": 15700
           }
         },
         {
@@ -235,10 +235,10 @@
             "archived": false,
             "id": 1554093,
             "language": "Shell",
-            "last_commit": "2026-08-23T12:35:19Z",
+            "last_commit": "2026-08-24T22:04:06Z",
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27156
+            "stars": 27155
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-06-08T16:29:56Z",
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15698
+            "stars": 15700
           }
         },
         {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:52:33.082Z",
+    "last_updated": "2026-08-25T05:07:44.572Z",
     "original_repository": "bnb/awesome-hyper",
     "original_repository_id": 63499650,
     "original_repository_sha": "6b9f209da885e047f4dafa35e21f51655e388d91",
