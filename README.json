@@ -17,7 +17,7 @@
                 "last_commit": "2022-09-20T08:52:39Z",
                 "owner": "bnb",
                 "repo": "awesome-hyper",
-                "stars": 11001
+                "stars": 11000
               }
             },
             {
@@ -58,7 +58,7 @@
             "last_commit": "2026-08-24T22:04:06Z",
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27155
+            "stars": 27156
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-08-24T22:04:06Z",
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27155
+            "stars": 27156
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2021-11-29T15:08:38Z",
             "owner": "jolaleye",
             "repo": "horizon-theme-vscode",
-            "stars": 625
+            "stars": 626
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2026-05-31T10:12:54Z",
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25947
+            "stars": 25952
           }
         },
         {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:45:24.918Z",
+    "last_updated": "2026-08-26T05:07:52.498Z",
     "original_repository": "bnb/awesome-hyper",
     "original_repository_id": 63499650,
     "original_repository_sha": "6b9f209da885e047f4dafa35e21f51655e388d91",
