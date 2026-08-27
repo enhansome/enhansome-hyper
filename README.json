@@ -58,7 +58,7 @@
             "last_commit": "2026-08-24T22:04:06Z",
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27156
+            "stars": 27160
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-01-21T00:29:56Z",
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2037
+            "stars": 2038
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-01-21T00:29:56Z",
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2037
+            "stars": 2038
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2026-06-08T16:29:56Z",
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15700
+            "stars": 15704
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-08-24T22:04:06Z",
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27156
+            "stars": 27160
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-06-08T16:29:56Z",
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15700
+            "stars": 15704
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2026-05-31T10:12:54Z",
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25952
+            "stars": 25957
           }
         },
         {
@@ -366,9 +366,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:07:52.498Z",
-    "original_repository": "bnb/awesome-hyper",
-    "original_repository_id": 63499650,
+    "last_updated": "2026-08-27T11:46:51.956Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 63499650,
+      "language": null,
+      "last_commit": "2022-09-20T08:52:39Z",
+      "owner": "bnb",
+      "repo": "awesome-hyper",
+      "stars": 11000
+    },
     "original_repository_sha": "6b9f209da885e047f4dafa35e21f51655e388d91",
     "enhanced_repository": "enhansome/enhansome-hyper",
     "enhanced_repository_description": null,
