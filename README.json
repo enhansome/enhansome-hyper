@@ -18,7 +18,8 @@
                 "owner": "bnb",
                 "repo": "awesome-hyper",
                 "stars": 11000
-              }
+              },
+              "first_seen": "2026-08-28T16:53:12.003Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "dylanaraps",
                 "repo": "wal",
                 "stars": 739
-              }
+              },
+              "first_seen": "2026-08-28T16:53:12.003Z"
             }
           ],
           "description": null,
@@ -58,8 +60,9 @@
             "last_commit": "2026-08-24T22:04:06Z",
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27158
-          }
+            "stars": 27160
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "IBM-Design",
             "repo": "colors",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "patrickemuller",
             "repo": "Sublime-Darkmatter-Theme",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -104,7 +109,8 @@
             "owner": "primer",
             "repo": "github-vscode-theme",
             "stars": 2038
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -119,7 +125,8 @@
             "owner": "primer",
             "repo": "github-vscode-theme",
             "stars": 2038
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -133,8 +140,9 @@
             "last_commit": "2026-06-08T16:29:56Z",
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15704
-          }
+            "stars": 15707
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "w0ng",
             "repo": "vim-hybrid",
             "stars": 1490
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -164,7 +173,8 @@
             "owner": "carloscuesta",
             "repo": "materialshell",
             "stars": 840
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -179,7 +189,8 @@
             "owner": "fxn",
             "repo": "vim-monochrome",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -194,7 +205,8 @@
             "owner": "taniarascia",
             "repo": "new-moon",
             "stars": 1223
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -209,7 +221,8 @@
             "owner": "atom",
             "repo": "one-light-syntax",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -223,8 +236,9 @@
             "last_commit": "2024-07-26T16:36:04Z",
             "owner": "NLKNguyen",
             "repo": "papercolor-theme",
-            "stars": 2842
-          }
+            "stars": 2843
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -238,8 +252,9 @@
             "last_commit": "2026-08-24T22:04:06Z",
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27158
-          }
+            "stars": 27160
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -254,7 +269,8 @@
             "owner": "atom",
             "repo": "one-dark-syntax",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -268,8 +284,9 @@
             "last_commit": "2026-06-08T16:29:56Z",
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15704
-          }
+            "stars": 15707
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -284,7 +301,8 @@
             "owner": "jolaleye",
             "repo": "horizon-theme-vscode",
             "stars": 626
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -299,7 +317,8 @@
             "owner": "w0ng",
             "repo": "vim-hybrid",
             "stars": 1490
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -314,7 +333,8 @@
             "owner": "taniarascia",
             "repo": "new-moon",
             "stars": 1223
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -329,7 +349,8 @@
             "owner": "voronianski",
             "repo": "oceanic-next-color-scheme",
             "stars": 1977
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -343,8 +364,9 @@
             "last_commit": "2026-05-31T10:12:54Z",
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25958
-          }
+            "stars": 25961
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         },
         {
           "node_type": "item",
@@ -359,14 +381,15 @@
             "owner": "xero",
             "repo": "sourcerer",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T16:53:12.003Z"
         }
       ],
       "title": "Themes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:25:56.424Z",
+    "last_updated": "2026-08-28T16:53:12.003Z",
     "original_repository_info": {
       "archived": false,
       "id": 63499650,
