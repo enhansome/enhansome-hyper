@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖥 Delightful Hyper plugins, themes, and resources",
+                "homepage": null,
                 "id": 63499650,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-09-20T08:52:39Z",
+                "open_issues": 23,
                 "owner": "bnb",
                 "repo": "awesome-hyper",
-                "stars": 11000
+                "stars": 11001,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "hyper",
+                  "hyperterm",
+                  "terminal",
+                  "zeit"
+                ]
               },
               "first_seen": "2026-08-28T16:53:12.003Z"
             },
@@ -28,12 +40,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🎨 Generate and change colorschemes on the fly. Deprecated, use pywal instead. -->",
+                "homepage": "https://github.com/dylanaraps/pywal",
                 "id": 75848188,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2017-07-07T10:09:55Z",
+                "open_issues": 4,
                 "owner": "dylanaraps",
                 "repo": "wal",
-                "stars": 739
+                "stars": 739,
+                "topics": [
+                  "changing-colorschemes",
+                  "colorscheme",
+                  "terminal-emulators",
+                  "wal"
+                ]
               },
               "first_seen": "2026-08-28T16:53:12.003Z"
             }
@@ -55,12 +77,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
+            "homepage": "http://www.iterm2colorschemes.com",
             "id": 1554093,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T22:04:06Z",
+            "open_issues": 23,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27160
+            "stars": 27160,
+            "topics": [
+              "color-scheme",
+              "freebsd-vt",
+              "iterm",
+              "iterm2",
+              "konsole",
+              "konsole-color-schemes",
+              "lxterminal",
+              "osx-terminal-themes",
+              "putty",
+              "putty-color-schemes",
+              "schemes",
+              "terminal",
+              "terminal-schemes",
+              "terminal-themes",
+              "terminator",
+              "theme",
+              "themes",
+              "windows-terminal",
+              "xrdb",
+              "xresources"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -71,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "IBM Design Language Color Library",
+            "homepage": "https://www.ibm.com/design/language/resources/color-library",
             "id": 31617693,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-30T22:42:38Z",
+            "open_issues": 12,
             "owner": "IBM-Design",
             "repo": "colors",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -87,12 +140,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a custom made Sublime Text 2 Theme inspired in Gray Space Theme and Tron Light Color Scheme",
+            "homepage": null,
             "id": 32534445,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-11-07T15:13:22Z",
+            "open_issues": 2,
             "owner": "patrickemuller",
             "repo": "Sublime-Darkmatter-Theme",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "color-scheme",
+              "sublime-text",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -103,12 +165,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub's VS Code themes",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme",
             "id": 249617978,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-21T00:29:56Z",
+            "open_issues": 79,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2038
+            "stars": 2038,
+            "topics": [
+              "dark",
+              "light",
+              "theme",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -119,12 +191,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub's VS Code themes",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme",
             "id": 249617978,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-21T00:29:56Z",
+            "open_issues": 79,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2038
+            "stars": 2038,
+            "topics": [
+              "dark",
+              "light",
+              "theme",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -135,12 +217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retro groove color scheme for Vim",
+            "homepage": null,
             "id": 6893638,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2026-06-08T16:29:56Z",
+            "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15707
+            "stars": 15707,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -151,12 +238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dark color scheme for Vim",
+            "homepage": null,
             "id": 5317987,
             "language": "VimL",
+            "license": null,
             "last_commit": "2023-08-26T17:21:37Z",
+            "open_issues": 21,
             "owner": "w0ng",
             "repo": "vim-hybrid",
-            "stars": 1490
+            "stars": 1490,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -167,12 +259,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A material design theme for your terminal. ✨",
+            "homepage": "https://materialshell.carloscuesta.me",
             "id": 46186278,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-12-12T21:06:35Z",
+            "open_issues": 0,
             "owner": "carloscuesta",
             "repo": "materialshell",
-            "stars": 840
+            "stars": 840,
+            "topics": [
+              "material-design",
+              "materialshell",
+              "shell",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -183,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monochrome color scheme for Vim",
+            "homepage": null,
             "id": 15554748,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2022-02-01T16:50:07Z",
+            "open_issues": 2,
             "owner": "fxn",
             "repo": "vim-monochrome",
-            "stars": 325
+            "stars": 325,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -199,12 +306,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌙 ‎ The optimized dark theme for web development.",
+            "homepage": "https://taniarascia.github.io/new-moon",
             "id": 39651569,
             "language": "Less",
+            "license": "MIT",
             "last_commit": "2024-07-09T22:15:42Z",
+            "open_issues": 14,
             "owner": "taniarascia",
             "repo": "new-moon",
-            "stars": 1223
+            "stars": 1223,
+            "topics": [
+              "brackets-extension",
+              "chrome-devtools-extension",
+              "dark-theme",
+              "iterm2-theme",
+              "syntax-highlighting",
+              "syntax-theme",
+              "visual-studio-code"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -215,12 +335,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Atom One light syntax theme",
+            "homepage": null,
             "id": 25940498,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2018-09-06T23:07:43Z",
+            "open_issues": 0,
             "owner": "atom",
             "repo": "one-light-syntax",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -231,12 +356,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":art: Light & Dark Vim color schemes inspired by Google's Material Design",
+            "homepage": null,
             "id": 29762329,
             "language": "Vim Script",
+            "license": "MIT",
             "last_commit": "2024-07-26T16:36:04Z",
+            "open_issues": 50,
             "owner": "NLKNguyen",
             "repo": "papercolor-theme",
-            "stars": 2843
+            "stars": 2843,
+            "topics": [
+              "theme",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -247,12 +380,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
+            "homepage": "http://www.iterm2colorschemes.com",
             "id": 1554093,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T22:04:06Z",
+            "open_issues": 23,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27160
+            "stars": 27160,
+            "topics": [
+              "color-scheme",
+              "freebsd-vt",
+              "iterm",
+              "iterm2",
+              "konsole",
+              "konsole-color-schemes",
+              "lxterminal",
+              "osx-terminal-themes",
+              "putty",
+              "putty-color-schemes",
+              "schemes",
+              "terminal",
+              "terminal-schemes",
+              "terminal-themes",
+              "terminator",
+              "theme",
+              "themes",
+              "windows-terminal",
+              "xrdb",
+              "xresources"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -263,12 +422,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Atom One dark syntax theme",
+            "homepage": null,
             "id": 25939960,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2018-09-05T21:29:10Z",
+            "open_issues": 0,
             "owner": "atom",
             "repo": "one-dark-syntax",
-            "stars": 474
+            "stars": 474,
+            "topics": [
+              "atom",
+              "css",
+              "dark-syntax-theme",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -279,12 +448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retro groove color scheme for Vim",
+            "homepage": null,
             "id": 6893638,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2026-06-08T16:29:56Z",
+            "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15707
+            "stars": 15707,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -295,12 +469,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":art: A beautifully warm dual theme for Visual Studio Code",
+            "homepage": "https://horizontheme.netlify.com",
             "id": 145160441,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-29T15:08:38Z",
+            "open_issues": 4,
             "owner": "jolaleye",
             "repo": "horizon-theme-vscode",
-            "stars": 626
+            "stars": 626,
+            "topics": [
+              "dark-theme",
+              "theme",
+              "vscode",
+              "vscode-theme"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -311,12 +495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dark color scheme for Vim",
+            "homepage": null,
             "id": 5317987,
             "language": "VimL",
+            "license": null,
             "last_commit": "2023-08-26T17:21:37Z",
+            "open_issues": 21,
             "owner": "w0ng",
             "repo": "vim-hybrid",
-            "stars": 1490
+            "stars": 1490,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -327,12 +516,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌙 ‎ The optimized dark theme for web development.",
+            "homepage": "https://taniarascia.github.io/new-moon",
             "id": 39651569,
             "language": "Less",
+            "license": "MIT",
             "last_commit": "2024-07-09T22:15:42Z",
+            "open_issues": 14,
             "owner": "taniarascia",
             "repo": "new-moon",
-            "stars": 1223
+            "stars": 1223,
+            "topics": [
+              "brackets-extension",
+              "chrome-devtools-extension",
+              "dark-theme",
+              "iterm2-theme",
+              "syntax-highlighting",
+              "syntax-theme",
+              "visual-studio-code"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -343,12 +545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":triangular_ruler: Sublime Text color scheme ready for next generation JavaScript syntax",
+            "homepage": null,
             "id": 30494531,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-12-19T21:45:16Z",
+            "open_issues": 4,
             "owner": "voronianski",
             "repo": "oceanic-next-color-scheme",
-            "stars": 1977
+            "stars": 1977,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -359,12 +566,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A good looking terminal emulator which mimics the old cathode display...",
+            "homepage": null,
             "id": 14614344,
             "language": "QML",
+            "license": null,
             "last_commit": "2026-05-31T10:12:54Z",
+            "open_issues": 561,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25961
+            "stars": 25966,
+            "topics": [
+              "linux",
+              "macos",
+              "qml",
+              "qt",
+              "retro",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         },
@@ -375,12 +594,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "read code like a wizard. a 16bit color scheme for hackers",
+            "homepage": null,
             "id": 38217539,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2018-10-23T03:24:26Z",
+            "open_issues": 3,
             "owner": "xero",
             "repo": "sourcerer",
-            "stars": 164
+            "stars": 164,
+            "topics": [
+              "colors",
+              "iterm",
+              "shell",
+              "terminal-colors",
+              "vim",
+              "vim-colors",
+              "vim-colorscheme",
+              "xdefaults",
+              "xresources",
+              "xterm"
+            ]
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
         }
@@ -389,15 +624,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:53:12.003Z",
+    "last_updated": "2026-08-29T04:13:10.665Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🖥 Delightful Hyper plugins, themes, and resources",
+      "homepage": null,
       "id": 63499650,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-09-20T08:52:39Z",
+      "open_issues": 23,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11000
+      "stars": 11001,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hyper",
+        "hyperterm",
+        "terminal",
+        "zeit"
+      ]
     },
     "original_repository_sha": "6b9f209da885e047f4dafa35e21f51655e388d91",
     "enhanced_repository": "enhansome/enhansome-hyper",
