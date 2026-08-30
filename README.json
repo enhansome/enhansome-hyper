@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "bnb",
                 "repo": "awesome-hyper",
-                "stars": 11001,
+                "stars": 11002,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -86,7 +86,7 @@
             "open_issues": 23,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27161,
+            "stars": 27165,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -226,7 +226,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15709,
+            "stars": 15711,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -315,7 +315,7 @@
             "open_issues": 14,
             "owner": "taniarascia",
             "repo": "new-moon",
-            "stars": 1223,
+            "stars": 1224,
             "topics": [
               "brackets-extension",
               "chrome-devtools-extension",
@@ -365,7 +365,7 @@
             "open_issues": 50,
             "owner": "NLKNguyen",
             "repo": "papercolor-theme",
-            "stars": 2843,
+            "stars": 2844,
             "topics": [
               "theme",
               "vim"
@@ -389,7 +389,7 @@
             "open_issues": 23,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27161,
+            "stars": 27165,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -457,7 +457,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15709,
+            "stars": 15711,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -525,7 +525,7 @@
             "open_issues": 14,
             "owner": "taniarascia",
             "repo": "new-moon",
-            "stars": 1223,
+            "stars": 1224,
             "topics": [
               "brackets-extension",
               "chrome-devtools-extension",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:19:29.450Z",
+    "last_updated": "2026-08-30T10:04:52.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
@@ -636,7 +636,7 @@
       "open_issues": 23,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11001,
+      "stars": 11002,
       "topics": [
         "awesome",
         "awesome-list",
