@@ -86,7 +86,7 @@
             "open_issues": 23,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27169,
+            "stars": 27171,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -174,7 +174,7 @@
             "open_issues": 79,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2040,
+            "stars": 2039,
             "topics": [
               "dark",
               "light",
@@ -200,7 +200,7 @@
             "open_issues": 79,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2040,
+            "stars": 2039,
             "topics": [
               "dark",
               "light",
@@ -226,7 +226,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15723,
+            "stars": 15724,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -268,7 +268,7 @@
             "open_issues": 0,
             "owner": "carloscuesta",
             "repo": "materialshell",
-            "stars": 840,
+            "stars": 841,
             "topics": [
               "material-design",
               "materialshell",
@@ -389,7 +389,7 @@
             "open_issues": 23,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27169,
+            "stars": 27171,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -457,7 +457,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15723,
+            "stars": 15724,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -575,7 +575,7 @@
             "open_issues": 561,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25973,
+            "stars": 25972,
             "topics": [
               "linux",
               "macos",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:58:36.659Z",
+    "last_updated": "2026-09-03T09:07:57.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
