@@ -83,10 +83,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-08-31T15:10:26Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27176,
+            "stars": 27177,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -226,7 +226,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15728,
+            "stars": 15731,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -386,10 +386,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-08-31T15:10:26Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27176,
+            "stars": 27177,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -457,7 +457,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15728,
+            "stars": 15731,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -572,10 +572,10 @@
             "language": "QML",
             "license": null,
             "last_commit": "2026-05-31T10:12:54Z",
-            "open_issues": 561,
+            "open_issues": 562,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25981,
+            "stars": 25984,
             "topics": [
               "linux",
               "macos",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:50:16.524Z",
+    "last_updated": "2026-09-07T09:38:41.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
