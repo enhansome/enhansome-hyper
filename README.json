@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "bnb",
                 "repo": "awesome-hyper",
-                "stars": 11002,
+                "stars": 11003,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -86,7 +86,7 @@
             "open_issues": 25,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27186,
+            "stars": 27190,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -389,7 +389,7 @@
             "open_issues": 25,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27186,
+            "stars": 27190,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -575,7 +575,7 @@
             "open_issues": 563,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25989,
+            "stars": 25994,
             "topics": [
               "linux",
               "macos",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:06:38.803Z",
+    "last_updated": "2026-09-11T09:04:44.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
@@ -636,7 +636,7 @@
       "open_issues": 23,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11002,
+      "stars": 11003,
       "topics": [
         "awesome",
         "awesome-list",
