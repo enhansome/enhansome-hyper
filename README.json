@@ -86,7 +86,7 @@
             "open_issues": 22,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27214,
+            "stars": 27217,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -226,7 +226,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15755,
+            "stars": 15756,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -389,7 +389,7 @@
             "open_issues": 22,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27214,
+            "stars": 27217,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -457,7 +457,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15755,
+            "stars": 15756,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -575,7 +575,7 @@
             "open_issues": 568,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26423,
+            "stars": 26432,
             "topics": [
               "linux",
               "macos",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:27:02.245Z",
+    "last_updated": "2026-09-23T09:29:22.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
