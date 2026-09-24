@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "bnb",
                 "repo": "awesome-hyper",
-                "stars": 11008,
+                "stars": 11007,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -77,16 +77,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
+            "description": "Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
             "homepage": "http://www.iterm2colorschemes.com",
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T04:10:36Z",
+            "last_commit": "2026-09-23T14:58:33Z",
             "open_issues": 22,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27217,
+            "stars": 27221,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -226,7 +226,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15756,
+            "stars": 15758,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -380,16 +380,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
+            "description": "Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
             "homepage": "http://www.iterm2colorschemes.com",
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T04:10:36Z",
+            "last_commit": "2026-09-23T14:58:33Z",
             "open_issues": 22,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27217,
+            "stars": 27221,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -457,7 +457,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15756,
+            "stars": 15758,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -572,10 +572,10 @@
             "language": "QML",
             "license": null,
             "last_commit": "2026-05-31T10:12:54Z",
-            "open_issues": 568,
+            "open_issues": 569,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26432,
+            "stars": 26438,
             "topics": [
               "linux",
               "macos",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:29:22.388Z",
+    "last_updated": "2026-09-24T09:28:05.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
@@ -636,7 +636,7 @@
       "open_issues": 23,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11008,
+      "stars": 11007,
       "topics": [
         "awesome",
         "awesome-list",
