@@ -82,11 +82,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T08:51:55Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-26T05:16:40Z",
+            "open_issues": 21,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27221,
+            "stars": 27224,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -226,7 +226,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15763,
+            "stars": 15764,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -385,11 +385,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T08:51:55Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-26T05:16:40Z",
+            "open_issues": 21,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27221,
+            "stars": 27224,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -457,7 +457,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15763,
+            "stars": 15764,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -575,7 +575,7 @@
             "open_issues": 569,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26444,
+            "stars": 26452,
             "topics": [
               "linux",
               "macos",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:45:39.859Z",
+    "last_updated": "2026-09-26T09:29:36.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
