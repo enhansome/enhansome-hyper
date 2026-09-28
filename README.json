@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "bnb",
                 "repo": "awesome-hyper",
-                "stars": 11006,
+                "stars": 11009,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -82,8 +82,8 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T22:24:03Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-27T16:53:03Z",
+            "open_issues": 21,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
             "stars": 27226,
@@ -365,7 +365,7 @@
             "open_issues": 50,
             "owner": "NLKNguyen",
             "repo": "papercolor-theme",
-            "stars": 2846,
+            "stars": 2845,
             "topics": [
               "theme",
               "vim"
@@ -385,8 +385,8 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T22:24:03Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-27T16:53:03Z",
+            "open_issues": 21,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
             "stars": 27226,
@@ -572,10 +572,10 @@
             "language": "QML",
             "license": null,
             "last_commit": "2026-05-31T10:12:54Z",
-            "open_issues": 570,
+            "open_issues": 571,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26453,
+            "stars": 26455,
             "topics": [
               "linux",
               "macos",
@@ -603,7 +603,7 @@
             "open_issues": 3,
             "owner": "xero",
             "repo": "sourcerer",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "colors",
               "iterm",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:10:17.409Z",
+    "last_updated": "2026-09-28T11:10:51.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
@@ -636,7 +636,7 @@
       "open_issues": 23,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11006,
+      "stars": 11009,
       "topics": [
         "awesome",
         "awesome-list",
