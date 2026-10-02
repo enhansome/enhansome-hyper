@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "bnb",
                 "repo": "awesome-hyper",
-                "stars": 11008,
+                "stars": 11007,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -82,11 +82,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T00:26:52Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-01T20:01:47Z",
+            "open_issues": 1,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27235,
+            "stars": 27239,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -226,7 +226,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15773,
+            "stars": 15776,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -247,7 +247,7 @@
             "open_issues": 21,
             "owner": "w0ng",
             "repo": "vim-hybrid",
-            "stars": 1489,
+            "stars": 1488,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -385,11 +385,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T00:26:52Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-01T20:01:47Z",
+            "open_issues": 1,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27235,
+            "stars": 27239,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -457,7 +457,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15773,
+            "stars": 15776,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -504,7 +504,7 @@
             "open_issues": 21,
             "owner": "w0ng",
             "repo": "vim-hybrid",
-            "stars": 1489,
+            "stars": 1488,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -575,7 +575,7 @@
             "open_issues": 571,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26467,
+            "stars": 26475,
             "topics": [
               "linux",
               "macos",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:08:23.319Z",
+    "last_updated": "2026-10-02T10:41:47.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
@@ -636,7 +636,7 @@
       "open_issues": 23,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11008,
+      "stars": 11007,
       "topics": [
         "awesome",
         "awesome-list",
