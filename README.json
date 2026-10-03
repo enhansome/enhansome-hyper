@@ -58,7 +58,7 @@
             "open_issues": 29,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27241,
+            "stars": 27243,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -361,7 +361,7 @@
             "open_issues": 29,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27241,
+            "stars": 27243,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:51:21.211Z",
+    "last_updated": "2026-10-03T10:00:44.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
