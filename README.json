@@ -54,11 +54,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T15:11:27Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-08T19:39:26Z",
+            "open_issues": 8,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27249,
+            "stars": 27253,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -287,7 +287,7 @@
             "open_issues": 14,
             "owner": "taniarascia",
             "repo": "new-moon",
-            "stars": 1224,
+            "stars": 1225,
             "topics": [
               "brackets-extension",
               "chrome-devtools-extension",
@@ -337,7 +337,7 @@
             "open_issues": 50,
             "owner": "NLKNguyen",
             "repo": "papercolor-theme",
-            "stars": 2845,
+            "stars": 2846,
             "topics": [
               "theme",
               "vim"
@@ -357,11 +357,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T15:11:27Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-08T19:39:26Z",
+            "open_issues": 8,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27249,
+            "stars": 27253,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -497,7 +497,7 @@
             "open_issues": 14,
             "owner": "taniarascia",
             "repo": "new-moon",
-            "stars": 1224,
+            "stars": 1225,
             "topics": [
               "brackets-extension",
               "chrome-devtools-extension",
@@ -544,10 +544,10 @@
             "language": "QML",
             "license": null,
             "last_commit": "2026-05-31T10:12:54Z",
-            "open_issues": 571,
+            "open_issues": 570,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26492,
+            "stars": 26490,
             "topics": [
               "linux",
               "macos",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:34:12.862Z",
+    "last_updated": "2026-10-09T11:28:42.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
@@ -605,10 +605,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2022-09-20T08:52:39Z",
-      "open_issues": 25,
+      "open_issues": 23,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11007,
+      "stars": 11005,
       "topics": [
         "awesome",
         "awesome-list",
