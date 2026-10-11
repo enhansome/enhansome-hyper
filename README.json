@@ -58,7 +58,7 @@
             "open_issues": 1,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27248,
+            "stars": 27251,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -146,7 +146,7 @@
             "open_issues": 81,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2041,
+            "stars": 2040,
             "topics": [
               "dark",
               "light",
@@ -172,7 +172,7 @@
             "open_issues": 81,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2041,
+            "stars": 2040,
             "topics": [
               "dark",
               "light",
@@ -198,7 +198,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15777,
+            "stars": 15781,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -361,7 +361,7 @@
             "open_issues": 1,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27248,
+            "stars": 27251,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -429,7 +429,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15777,
+            "stars": 15781,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -544,10 +544,10 @@
             "language": "QML",
             "license": null,
             "last_commit": "2026-05-31T10:12:54Z",
-            "open_issues": 570,
+            "open_issues": 571,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26492,
+            "stars": 26493,
             "topics": [
               "linux",
               "macos",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:46:07.684Z",
+    "last_updated": "2026-10-11T10:58:56.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
