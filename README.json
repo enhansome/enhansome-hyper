@@ -58,7 +58,7 @@
             "open_issues": 1,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27255,
+            "stars": 27259,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -198,7 +198,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15785,
+            "stars": 15788,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -337,7 +337,7 @@
             "open_issues": 50,
             "owner": "NLKNguyen",
             "repo": "papercolor-theme",
-            "stars": 2846,
+            "stars": 2845,
             "topics": [
               "theme",
               "vim"
@@ -361,7 +361,7 @@
             "open_issues": 1,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27255,
+            "stars": 27259,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -429,7 +429,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15785,
+            "stars": 15788,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -544,10 +544,10 @@
             "language": "QML",
             "license": null,
             "last_commit": "2026-05-31T10:12:54Z",
-            "open_issues": 571,
+            "open_issues": 572,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26497,
+            "stars": 26501,
             "topics": [
               "linux",
               "macos",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T09:40:51.046Z",
+    "last_updated": "2026-10-15T09:20:42.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
@@ -605,10 +605,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2022-09-20T08:52:39Z",
-      "open_issues": 23,
+      "open_issues": 25,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11005,
+      "stars": 11004,
       "topics": [
         "awesome",
         "awesome-list",
