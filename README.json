@@ -54,7 +54,7 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T04:15:12Z",
+            "last_commit": "2026-10-16T16:01:19Z",
             "open_issues": 2,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
@@ -146,7 +146,7 @@
             "open_issues": 81,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2041,
+            "stars": 2042,
             "topics": [
               "dark",
               "light",
@@ -172,7 +172,7 @@
             "open_issues": 81,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2041,
+            "stars": 2042,
             "topics": [
               "dark",
               "light",
@@ -357,7 +357,7 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T04:15:12Z",
+            "last_commit": "2026-10-16T16:01:19Z",
             "open_issues": 2,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T09:14:00.576Z",
+    "last_updated": "2026-10-17T08:45:11.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
