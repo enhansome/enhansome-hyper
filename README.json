@@ -54,11 +54,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T15:06:39Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-04T04:42:33Z",
+            "open_issues": 3,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27313,
+            "stars": 27316,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -198,7 +198,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15828,
+            "stars": 15825,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -357,11 +357,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T15:06:39Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-04T04:42:33Z",
+            "open_issues": 3,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27313,
+            "stars": 27316,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -429,7 +429,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15828,
+            "stars": 15825,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:15:09.661Z",
+    "last_updated": "2026-11-04T12:26:44.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
