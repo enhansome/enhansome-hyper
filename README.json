@@ -49,12 +49,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more",
+            "description": "Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more",
             "homepage": "https://terminalthemes.com",
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T04:15:17Z",
+            "last_commit": "2026-11-13T04:16:22Z",
             "open_issues": 2,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
@@ -143,10 +143,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-01-21T00:29:56Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2051,
+            "stars": 2052,
             "topics": [
               "dark",
               "light",
@@ -169,10 +169,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-01-21T00:29:56Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2051,
+            "stars": 2052,
             "topics": [
               "dark",
               "light",
@@ -352,12 +352,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more",
+            "description": "Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more",
             "homepage": "https://terminalthemes.com",
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T04:15:17Z",
+            "last_commit": "2026-11-13T04:16:22Z",
             "open_issues": 2,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
@@ -547,7 +547,7 @@
             "open_issues": 579,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26565,
+            "stars": 26569,
             "topics": [
               "linux",
               "macos",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:09:20.990Z",
+    "last_updated": "2026-11-13T12:32:35.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
@@ -608,7 +608,7 @@
       "open_issues": 25,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11025,
+      "stars": 11024,
       "topics": [
         "awesome",
         "awesome-list",
