@@ -54,11 +54,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T04:16:22Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-13T22:04:05Z",
+            "open_issues": 1,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27323,
+            "stars": 27326,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -198,7 +198,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15837,
+            "stars": 15838,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -357,11 +357,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T04:16:22Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-13T22:04:05Z",
+            "open_issues": 1,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27323,
+            "stars": 27326,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -429,7 +429,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15837,
+            "stars": 15838,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:32:35.514Z",
+    "last_updated": "2026-11-14T11:42:11.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
@@ -608,7 +608,7 @@
       "open_issues": 25,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11024,
+      "stars": 11025,
       "topics": [
         "awesome",
         "awesome-list",
