@@ -54,7 +54,7 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T18:54:31Z",
+            "last_commit": "2026-11-17T04:15:14Z",
             "open_issues": 2,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
@@ -146,7 +146,7 @@
             "open_issues": 82,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2056,
+            "stars": 2057,
             "topics": [
               "dark",
               "light",
@@ -172,7 +172,7 @@
             "open_issues": 82,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2056,
+            "stars": 2057,
             "topics": [
               "dark",
               "light",
@@ -198,7 +198,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15841,
+            "stars": 15843,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -357,7 +357,7 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T18:54:31Z",
+            "last_commit": "2026-11-17T04:15:14Z",
             "open_issues": 2,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
@@ -429,7 +429,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15841,
+            "stars": 15843,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -450,7 +450,7 @@
             "open_issues": 4,
             "owner": "jolaleye",
             "repo": "horizon-theme-vscode",
-            "stars": 623,
+            "stars": 624,
             "topics": [
               "dark-theme",
               "theme",
@@ -547,7 +547,7 @@
             "open_issues": 579,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26572,
+            "stars": 26577,
             "topics": [
               "linux",
               "macos",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:04:52.787Z",
+    "last_updated": "2026-11-17T13:46:26.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
@@ -608,7 +608,7 @@
       "open_issues": 25,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11027,
+      "stars": 11026,
       "topics": [
         "awesome",
         "awesome-list",
