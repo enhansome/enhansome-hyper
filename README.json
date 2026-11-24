@@ -54,11 +54,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T15:06:55Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-23T15:22:17Z",
+            "open_issues": 2,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27337,
+            "stars": 27334,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -146,7 +146,7 @@
             "open_issues": 82,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2059,
+            "stars": 2058,
             "topics": [
               "dark",
               "light",
@@ -172,7 +172,7 @@
             "open_issues": 82,
             "owner": "primer",
             "repo": "github-vscode-theme",
-            "stars": 2059,
+            "stars": 2058,
             "topics": [
               "dark",
               "light",
@@ -198,7 +198,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15845,
+            "stars": 15846,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -240,7 +240,7 @@
             "open_issues": 0,
             "owner": "carloscuesta",
             "repo": "materialshell",
-            "stars": 839,
+            "stars": 838,
             "topics": [
               "material-design",
               "materialshell",
@@ -357,11 +357,11 @@
             "id": 1554093,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T15:06:55Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-23T15:22:17Z",
+            "open_issues": 2,
             "owner": "mbadolato",
             "repo": "iTerm2-Color-Schemes",
-            "stars": 27337,
+            "stars": 27334,
             "topics": [
               "color-scheme",
               "freebsd-vt",
@@ -429,7 +429,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15845,
+            "stars": 15846,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:12.003Z"
@@ -544,10 +544,10 @@
             "language": "QML",
             "license": null,
             "last_commit": "2026-05-31T10:12:54Z",
-            "open_issues": 578,
+            "open_issues": 577,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26591,
+            "stars": 26589,
             "topics": [
               "linux",
               "macos",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T15:13:46.158Z",
+    "last_updated": "2026-11-24T15:11:53.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 Delightful Hyper plugins, themes, and resources",
@@ -608,7 +608,7 @@
       "open_issues": 23,
       "owner": "bnb",
       "repo": "awesome-hyper",
-      "stars": 11030,
+      "stars": 11029,
       "topics": [
         "awesome",
         "awesome-list",
